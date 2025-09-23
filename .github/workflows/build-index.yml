@@ -29,7 +29,7 @@ jobs:
           const path = require('path');
           const dir = path.join(process.cwd(), 'projects');
           if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-          const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+          const files = fs.readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'index.json' );
           const projects = files.map(f => {
             const p = path.join(dir, f);
             try {
