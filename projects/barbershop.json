@@ -1,0 +1,38 @@
+{
+  "slug": "barbershop",
+  "name": "BarberShop",
+  "type": "landing",
+  "releasedAt": "2024-10-01",
+  "links": {
+    "live": "https://yurii-corssa.github.io/barbershop/",
+    "frontend": "https://github.com/yurii-corssa/barbershop",
+    "backend": null,
+    "design": "https://www.figma.com/design/aq5U7Rzns73ZGFXBCnms8j/Barbershop?node-id=0-1&p=f&t=ELV5JR7xAenG04ET-0"
+  },
+  "media": {
+    "cover": {
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/barbershop/main/src/public/cover.png",
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Це сучасний адаптивний сайт для барбершопу, створений для зручного ознайомлення клієнтів із послугами. Проєкт містить динамічний слайдер у Hero-секції, форму онлайн-запису та плавні анімації сторінок за допомогою сторонньої бібліотеки.",
+      "full": "Даний сайт розроблений як демонстрація моїх навичок фронтенд-розробки з акцентом на сучасні HTML та CSS-техніки. Він має чистий, повністю адаптивний дизайн, побудований на основі семантичної розмітки, модульних CSS та JavaScript для інтерактивності. На сайті реалізовано ключові секції: головний екран із слайдером, блок 'Про нас', інформацію про послуги та ціни, форму запису, галерею робіт — усе оптимізовано для зручності на різних пристроях. Основна мета — показати вміння створювати професійний сайт із використанням сучасних CSS (flexbox, grid), JavaScript для інтерактивних елементів та бібліотеки AOS для плавних анімацій. Проєкт є портфоліо, що демонструє мою експертизу у створенні адаптивних, підтримуваних і візуально привабливих веб-сторінок.",
+      "resume": "Індивідуальний проєкт, спрямований на опанування та демонстрацію сучасних фронтенд-навичок. Розроблено сайт-портфоліо для барбершопу з динамічним слайдером, формою онлайн-запису, модульною структурою CSS і JavaScript, семантичною адаптивною версткою та плавними анімаціями на основі AOS, оптимізований для зручності та продуктивності на різних пристроях."
+    },
+    "en": {
+      "short": "This is a responsive website for a barbershop, designed to provide clients with a user-friendly interface for exploring services. The project includes a carousel in the Hero section with dynamic content loading, a service booking form, and utilizes a third-party library for smooth page animations.",
+      "full": "This project was created to showcase my front-end development skills, emphasizing modern HTML and CSS techniques. It features a clean, fully responsive design, using best practices like semantic HTML, modular CSS, and JavaScript for dynamic interactions. The website includes key sections like a hero landing page, an 'About Us' introduction, services and pricing information, a booking form, and a gallery of work, all optimized for usability across devices. The main objective was to demonstrate my ability to build a professional website using advanced CSS (flexbox, grid), JavaScript for interactivity, and the AOS library for smooth animations. This project serves as a portfolio piece to highlight my expertise in crafting responsive, maintainable, and visually engaging web pages.",
+      "resume": "Individual project aimed at mastering and showcasing modern front-end skills. Developed a portfolio website for a barbershop with a dynamic hero slider, online booking form, modular CSS and JavaScript structure, semantic responsive layout, and smooth animations using AOS, all optimized for usability and performance across devices."
+    }
+  },
+  "techStack": {
+    "core": ["HTML", "CSS", "JavaScript", "Vite"],
+    "tools": ["AOS", "Modern Normalize", "npm"]
+  },
+  "tags": ["frontend", "vanilla-js", "landing-page"],
+  "status": "completed"
+}
