@@ -2,6 +2,8 @@
   "slug": "barbershop",
   "name": "BarberShop",
   "type": "landing",
+  "role": "Developer",
+  "status": "completed",
   "releasedAt": "2024-10-01",
   "links": {
     "live": "https://yurii-corssa.github.io/barbershop/",
@@ -33,6 +35,5 @@
     "core": ["HTML", "CSS", "JavaScript", "Vite"],
     "tools": ["AOS", "Modern Normalize", "npm"]
   },
-  "tags": ["frontend", "vanilla-js", "landing-page"],
-  "status": "completed"
+  "tags": ["frontend", "vanilla-js", "landing-page"]
 }

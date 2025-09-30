@@ -2,6 +2,8 @@
   "slug": "aperture",
   "name": "Aperture Studios",
   "type": "landing",
+  "role": "Developer",
+  "status": "completed",
   "releasedAt": "2025-09-09",
   "links": {
     "live": "https://aperture-studio.netlify.app",
@@ -33,6 +35,5 @@
     "core": ["HTML", "SCSS", "JavaScript", "Vite"],
     "tools": ["PostCSS", "Autoprefixer", "injectHTML", "ESLint", "Netlify", "npm", "cssnano"]
   },
-  "tags": ["frontend", "vanilla-js", "landing-page"],
-  "status": "completed"
+  "tags": ["frontend", "vanilla-js", "landing-page"]
 }
