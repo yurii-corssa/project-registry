@@ -6,5 +6,9 @@
   {
     "slug": "barbershop",
     "name": "BarberShop"
+  },
+  {
+    "slug": "language-learning-app",
+    "name": "Language Learning"
   }
 ]
