@@ -1,0 +1,64 @@
+{
+  "slug": "contact-keeper-app",
+  "name": "Contact Keeper",
+  "type": "web-app",
+  "role": "Full-Stack Developer & Designer",
+  "status": "completed",
+  "releasedAt": "2024-01-09",
+  "links": {
+    "live": "https://yurii-corssa.github.io/contact-keeper-app/",
+    "frontend": "https://github.com/yurii-corssa/contact-keeper-app",
+    "backend": "https://github.com/yurii-corssa/contacts-manager-api",
+    "design": null
+  },
+  "media": {
+    "cover": {
+      "1x": null,
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": "https://raw.githubusercontent.com/yurii-corssa/aperture/main/assets/main-interface.gif"
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Повноцінний додаток для керування контактами: безпечна реєстрація, вхід і зручне управління контактами з додаванням, редагуванням, видаленням і фільтрацією. Забезпечує адаптивність, та простоту використання.",
+      "full": "Contact Keeper це повноцінний веб-додаток, створений для демонстрації сучасних навичок фронтенд та фулстек-розробки на практичному прикладі менеджера контактів. Користувачі можуть безпечно реєструватися, входити в систему та ефективно керувати своїми контактами: додавати, редагувати, видаляти та фільтрувати записи. Додаток розроблено з акцентом на модульність, адаптивний дизайн і зручність використання, а також містить надійну аутентифікацію та верифікацію електронної пошти для захисту даних. Серверна частина на Node.js і MongoDB забезпечує стабільну роботу та актуальність даних у реальному часі. Проєкт вирізняється підтримкою найкращих практик, високою продуктивністю та якістю коду.",
+      "resume": "Індивідуальний проєкт для практики та демонстрації навичок фулстек-розробки на прикладі менеджера контактів. Реалізовано безпечну автентифікацію, верифікацію email і зручні інструменти керування контактами. Оптимізовано для зручності та продуктивності, забезпечуючи інтуїтивний досвід користувача."
+    },
+    "en": {
+      "short": "A full-stack contact management app enabling users to securely register, log in, and efficiently manage personal contacts with intuitive tools for adding, editing, deleting, and filtering. Delivers a responsive and user-friendly experience.",
+      "full": "Contact Keeper is a full-stack project designed to showcase advanced front-end and full-stack development skills through a practical contact management solution. The application enables users to securely register, log in, and efficiently manage their personal contacts, featuring intuitive tools for adding, editing, deleting, and filtering entries. Developed with React and Redux, the app emphasizes modularity, responsive design, and seamless user experience, while robust authentication and email verification ensure data security. The backend, built with Node.js and MongoDB, supports real-time updates and reliable data handling. The result is a maintainable, high-performance application that demonstrates best practices in usability, responsiveness, and code quality.",
+      "resume": "Individual project aimed at practicing and showcasing full-stack development skills through a contact management app. Implemented secure authentication, email verification, and intuitive tools for managing contacts. Optimized for usability and performance, ensuring a seamless user experience."
+    }
+  },
+  "techStack": {
+    "core": ["React", "Redux", "Node.js", "Express.js", "MongoDB"],
+    "tools": [
+      "React Router",
+      "Redux Persist",
+      "Formik",
+      "Chakra UI",
+      "Framer Motion",
+      "Axios",
+      "Mongoose",
+      "JWT",
+      "Joi",
+      "Nodemailer",
+      "Bcrypt",
+      "Morgan",
+      "Jimp",
+      "Multer",
+      "ESLint",
+      "npm"
+    ]
+  },
+  "tags": [
+    "full-stack",
+    "react",
+    "redux",
+    "node.js",
+    "express.js",
+    "mongodb",
+    "nodemailer"
+  ]
+}
