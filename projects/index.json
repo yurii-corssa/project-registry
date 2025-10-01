@@ -8,6 +8,10 @@
     "name": "BarberShop"
   },
   {
+    "slug": "contact-keeper-app",
+    "name": "Contact Keeper"
+  },
+  {
     "slug": "language-learning-app",
     "name": "Learn Lingo"
   }
