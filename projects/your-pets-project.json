@@ -1,0 +1,52 @@
+{
+  "slug": "your-pets-project",
+  "name": "Your Pet",
+  "type": "web-app",
+  "role": "Frontend Team Lead & Developer",
+  "status": "completed",
+  "releasedAt": "2023-12-01",
+  "links": {
+    "live": "https://yurii-corssa.github.io/your-pets-project/",
+    "frontend": "https://github.com/yurii-corssa/your-pets-project",
+    "backend": "https://github.com/PavelPereverzev1/yourPets-project-backend",
+    "design": "https://www.figma.com/design/ooCIGcS5EDWBfPH9fzaUNB/Your-Pet-2.0--Copy-?node-id=0-1&p=f&t=c8IIwub2gKmyBnTa-0"
+  },
+  "media": {
+    "cover": {
+      "1x": null,
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Веб-платформа для любителів тварин: дозволяє знаходити, додавати та шукати улюбленців, розміщувати оголошення, керувати власними тваринами, читати новини та знаходити контакти партнерів для кращого догляду за тваринами.",
+      "full": "Your Pet це веб-додаток, створений для допомоги любителям тварин у пошуку, всиновленні чи прилаштуванні домашніх улюбленців, а також для демонстрації сучасних навичок фронтенд-розробки. Проєкт побудований на основі React, Redux Toolkit і styled-components, з акцентом на модульність, підтримуваність, зручність та високу продуктивність. Користувачі можуть реєструватися, керувати особистим кабінетом, розміщувати й переглядати оголошення про тварин, зберігати улюбленців, читати новини та знаходити контакти партнерів. Додаток має зрозумілу навігацію, адаптивний дизайн для всіх пристроїв і власні хуки для керування станом та інтерфейсом. Валідація форм, збереження стану та зворотний зв’язок забезпечують комфортну взаємодію. У підсумку, Your Pet це надійна, зручна платформа й вагомий приклад сучасної веб-розробки для портфоліо.",
+      "resume": "Брав участь у якості керівника фронтенд-команди в командному проекті, розробляючи комплексний веб-сервіс для любителів домашніх тварин. Мої основні обов'язки включали розробку сторінки користувача та основних розділів сторінки повідомлень, а також реалізацію логіки запитів для даних користувачів та повідомлень. Ця повністю функціональна програма відрізняється безперебійною роботою та інтуїтивно зрозумілим інтерфейсом користувача."
+    },
+    "en": {
+      "short": "A web platform for animal lovers to find, manage, and help pets—enabling users to post announcements, save favorites, manage their own pets, access animal news, and connect with support partners for a better pet care experience.",
+      "full": "Your Pet is a web application designed to help animal lovers find, adopt, or rehome pets, while also showcasing modern front-end development skills. The project emphasizes a modular, maintainable architecture using React, Redux Toolkit, and styled-components, with a focus on usability, responsiveness, and performance. Users can register, manage personal accounts, post and browse pet announcements, save favorites, read animal news, and access partner contacts. The app features a clear navigation structure, adaptive layouts for all devices, and custom hooks for state and UI management. Form validation, persistent state, and user feedback are implemented for a seamless experience. As a result, Your Pet delivers a robust, user-friendly platform and serves as a strong portfolio piece demonstrating best practices in modern web development.",
+      "resume": "Contributed as a frontend team lead in a team project, developing a comprehensive web service for pet enthusiasts. My key responsibilities included developing the user page and main sections of the notices page, along with implementing request logic for user and notice data. This fully functional application features seamless operation and an intuitive user interface."
+    }
+  },
+  "techStack": {
+    "core": ["React", "Redux", "React Router", "Node.js", "Express.js", "MongoDB"],
+    "tools": [
+      "Redux Toolkit",
+      "Redux Persist",
+      "React Router",
+      "React Paginate",
+      "React Toastify",
+      "Formik",
+      "Yup",
+      "Axios",
+      "styled-components",
+      "ESLint",
+      "Prettier",
+      "npm"
+    ]
+  },
+  "tags": ["full-stack", "react", "redux", "node.js", "express.js", "mongodb", "web-app"]
+}
