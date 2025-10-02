@@ -33,7 +33,16 @@
   },
   "techStack": {
     "core": ["HTML", "SCSS", "JavaScript", "Vite"],
-    "tools": ["PostCSS", "Autoprefixer", "injectHTML", "ESLint", "Netlify", "npm", "cssnano"]
+    "tools": [
+      "PostCSS",
+      "Autoprefixer",
+      "injectHTML",
+      "Prettier",
+      "ESLint",
+      "Netlify",
+      "npm",
+      "cssnano"
+    ]
   },
   "tags": ["frontend", "vanilla-js", "landing-page"]
 }

@@ -33,7 +33,7 @@
   },
   "techStack": {
     "core": ["React", "Firebase", "Styled Components", "Framer Motion", "Vite"],
-    "tools": ["React Router", "yup", "react-hook-form", "ESLint", "npm", "Netlify"]
+    "tools": ["React Router", "yup", "react-hook-form", "ESLint", "Prettier", "npm"]
   },
   "tags": ["full-stack", "react", "firebase", "web-app"]
 }

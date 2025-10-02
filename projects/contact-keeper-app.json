@@ -49,6 +49,7 @@
       "Jimp",
       "Multer",
       "ESLint",
+      "Prettier",
       "npm"
     ]
   },

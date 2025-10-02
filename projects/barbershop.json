@@ -33,7 +33,7 @@
   },
   "techStack": {
     "core": ["HTML", "CSS", "JavaScript", "Vite"],
-    "tools": ["AOS", "Modern Normalize", "npm"]
+    "tools": ["AOS", "Modern Normalize", "Prettier", "npm"]
   },
   "tags": ["frontend", "vanilla-js", "landing-page"]
 }
