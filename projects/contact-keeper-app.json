@@ -2,7 +2,7 @@
   "slug": "contact-keeper-app",
   "name": "Contact Keeper",
   "type": "web-app",
-  "role": "Full-Stack Developer & Designer",
+  "role": "Fullstack Developer & Designer",
   "status": "completed",
   "releasedAt": "2024-01-09",
   "links": {
@@ -52,13 +52,5 @@
       "npm"
     ]
   },
-  "tags": [
-    "full-stack",
-    "react",
-    "redux",
-    "node.js",
-    "express.js",
-    "mongodb",
-    "nodemailer"
-  ]
+  "tags": ["full-stack", "react", "redux", "node.js", "express.js", "mongodb", "nodemailer"]
 }
