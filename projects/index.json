@@ -14,5 +14,9 @@
   {
     "slug": "language-learning-app",
     "name": "Learn Lingo"
+  },
+  {
+    "slug": "your-pets-project",
+    "name": "Your Pet"
   }
 ]
