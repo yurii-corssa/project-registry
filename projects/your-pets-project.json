@@ -32,7 +32,7 @@
     }
   },
   "techStack": {
-    "core": ["React", "Redux", "React Router", "Node.js", "Express.js", "MongoDB"],
+    "core": ["React", "Redux", "Node.js", "Express.js", "MongoDB"],
     "tools": [
       "Redux Toolkit",
       "Redux Persist",
