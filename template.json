@@ -1,0 +1,39 @@
+{
+  "slug": null,
+  "name": null,
+  "type": null,
+  "role": null,
+  "status": null,
+  "releasedAt": null,
+  "links": {
+    "live": null,
+    "frontend": null,
+    "backend": null,
+    "design": null
+  },
+  "media": {
+    "cover": {
+      "1x": null,
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": null,
+      "full": null,
+      "resume": null
+    },
+    "en": {
+      "short": null,
+      "full": null,
+      "resume": null
+    }
+  },
+  "techStack": {
+    "core": [],
+    "tools": []
+  },
+  "tags": []
+}
