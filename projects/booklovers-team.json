@@ -1,0 +1,39 @@
+{
+  "slug": "booklovers-team",
+  "name": "Bookshelf",
+  "type": "website",
+  "role": "Frontend Developer",
+  "status": "completed",
+  "releasedAt": "2023-07-24",
+  "links": {
+    "live": "https://yurii-corssa.github.io/booklovers-team/",
+    "frontend": "https://github.com/yurii-corssa/booklovers-team",
+    "backend": null,
+    "design": "https://www.figma.com/design/RRgwlZnsZUYq7WhCG3u4Sg/Bookshelf--Copy-?node-id=0-1&p=f&t=RFI1HxuJ8dBBJEyJ-0"
+  },
+  "media": {
+    "cover": {
+      "1x": null,
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": null,
+      "full": null,
+      "resume": null
+    },
+    "en": {
+      "short": null,
+      "full": null,
+      "resume": null
+    }
+  },
+  "techStack": {
+    "core": [],
+    "tools": []
+  },
+  "tags": []
+}
