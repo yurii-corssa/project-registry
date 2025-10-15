@@ -13,7 +13,7 @@
   },
   "media": {
     "cover": {
-      "1x": null,
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/goit-markup-hw-07/main/assets/webstudio-cover.webp",
       "2x": null,
       "3x": null
     },
@@ -22,12 +22,12 @@
   "descriptions": {
     "ua": {
       "short": "Це адаптивний бізнес-сайт, який підкреслює послуги, портфоліо та команду, доповнений сучасним дизайном і інтерактивними рішеннями. Підвищує залученість клієнтів і професійний імідж для діджитал-агенцій.",
-      "full": "WebStudio це сайт-портфоліо, створений під час опанування HTML5 і CSS3 для закріплення навичок сучасної фронтенд-верстки. Мета проєкту представити діджитал-студію і продемонструвати базові підходи до адаптивного дизайну, структурування і доступних інтерфейсів. Головна сторінка містить ключові цінності, команду, логотипи клієнтів та інтерактивну галерею робіт з фільтрацією. Усі компоненти реалізовані за принципом mobile-first, з використанням кастомних властивостей, адаптивних зображень і семантичної розмітки; динаміка забезпечена чистим JavaScript. Проєкт відзначається зручністю, адаптивністю, продуктивністю та організованістю коду і слугує наочним портфоліо для демонстрації базових веб-навичок.",
+      "full": "WebStudio це сайт-портфоліо, створений під час опанування HTML5 і CSS3 для закріплення навичок сучасної фронтенд-верстки. Мета проєкту представити діджитал-студію і продемонструвати базові підходи до адаптивного дизайну, структурування і доступних інтерфейсів. Головна сторінка містить ключові цінності, команду, логотипи клієнтів та інтерактивну галерею робіт з фільтрацією. Усі компоненти реалізовані за принципом mobile-first, з використанням кастомних властивостей, адаптивних зображень і семантичної розмітки. Основна увага приділяється семантичному HTML та сучасним технікам CSS. Використання JavaScript зведено до мінімуму і застосовується лише для основних взаємодій, таких як мобільне меню та модальне вікно. Проєкт відзначається зручністю, адаптивністю, продуктивністю та організованістю коду і слугує наочним портфоліо для демонстрації базових веб-навичок.",
       "resume": "Індивідуальний проєкт для вдосконалення сучасної верстки. Створив адаптивний сайт-портфоліо з інтерактивними секціями й модальною формою. Поглибив практичний досвід у розробці, забезпечивши професійний вигляд і зручність."
     },
     "en": {
       "short": "A responsive business website that showcases services, portfolio, and team, enhanced with modern design and interactive features. Increases customer engagement and elevates the professional image for digital agencies.",
-      "full": "WebStudio is a portfolio site developed during the study of HTML5 and CSS3 to master the fundamentals of modern front-end development. The project’s goal is to present a digital agency and demonstrate essential layout, responsive design, and accessible interface techniques. The site features a homepage with core agency values, team profiles, clients’ logos, and a dynamic portfolio gallery with category filtering. All components are styled mobile-first with custom properties, scalable images, and semantic structure, while interactive elements like the mobile menu and modal windows are implemented in pure JavaScript. The result is a user-friendly, adaptive portfolio piece that showcases strong foundational web skills, performance, and clean code organization.",
+      "full": "WebStudio is a portfolio site developed during the study of HTML5 and CSS3 to master the fundamentals of modern front-end development. The project’s goal is to present a digital agency and demonstrate essential layout, responsive design, and accessible interface techniques. The site features a homepage with core agency values, team profiles, clients’ logos, and a dynamic portfolio gallery with category filtering. All components are styled mobile-first with custom properties, scalable images, and semantic structure. The focus is on semantic HTML and modern CSS techniques. JavaScript is kept minimal and used only for essential interactions such as the mobile menu and modal. The result is a user-friendly, adaptive portfolio piece that showcases strong foundational web skills, performance, and clean code organization.",
       "resume": "Individual project aimed at practicing modern web development. Built a responsive portfolio site with interactive sections and modal contact form. Gained hands-on experience in adaptive design and project execution, delivering a professional user experience."
     }
   },
