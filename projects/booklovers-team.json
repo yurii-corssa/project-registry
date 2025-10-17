@@ -13,7 +13,7 @@
   },
   "media": {
     "cover": {
-      "1x": null,
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/booklovers-team/main/assets/bookshelf-cover.webp",
       "2x": null,
       "3x": null
     },
@@ -21,19 +21,19 @@
   },
   "descriptions": {
     "ua": {
-      "short": null,
-      "full": null,
-      "resume": null
+      "short": "Цей веб-додаток дозволяє користувачам досліджувати різноманітні категорії книг, переглядати бестселери та керувати персоналізованим списком покупок, забезпечуючи інтуїтивний та захоплюючий досвід для книголюбів",
+      "full": "Booklovers Team це динамічний frontend додаток, ретельно розроблений для демонстрації сучасних навичок веб-розробки, що пропонує захопливу платформу для книголюбів. Створений з акцентом на чисту архітектуру, він використовує HTML, SCSS для адаптивного стилю та модульний JavaScript, включаючи асинхронні операції з Axios для безперебійної взаємодії з API та постійного керування даними через localStorage. Основні функції охоплюють інтуїтивно зрозуміле відображення книг-бестселерів у різних категоріях, інтерактивний список покупок, імітацію реєстрації, перемикач тем для персоналізованого досвіду та привабливий слайдер 'Підтримка України', що разом створює насичений інтерфейс. Цей проєкт демонструє високі стандарти зручності використання, адаптивності та підтримки, слугуючи вагомим елементом портфоліо, що підтверджує всебічні навички frontend та надає продуктивне, орієнтоване на користувача веб-рішення.",
+      "resume": "Командний проект для книголюбів, де я брав участь у розробці ключових функцій, таких як комплексне управління списком покупок з динамічним додаванням та видаленням книг, а також логіка симуляції реєстрації користувачів. Це забезпечило високофункціональний додаток з інтуїтивно зрозумілим та чуйним інтерфейсом."
     },
     "en": {
-      "short": null,
-      "full": null,
-      "resume": null
+      "short": "This web application allows users to explore diverse book categories, browse bestsellers, and manage a personalized shopping list, providing an intuitive and engaging experience for book lovers.",
+      "full": "Booklovers Team is a dynamic frontend application meticulously developed to showcase modern web development proficiencies, offering an immersive platform for book enthusiasts. Built with a focus on clean architecture, it leverages HTML, SCSS for adaptive styling, and modular JavaScript, incorporating asynchronous operations with Axios for seamless API interactions and persistent data management via localStorage. Key features include an intuitive display of best-selling books across diverse categories, an interactive shopping list, imitation registration, a theme switcher for personalized experiences, and an engaging 'Support Ukraine' slider, all contributing to a rich user interface. This project exemplifies high standards of usability, responsiveness, and maintainability, serving as a strong portfolio piece demonstrating comprehensive frontend development skills and delivering a performant, user-centric web solution.",
+      "resume": "Team project for book lovers, where I contributed to developing critical features like comprehensive shopping list management with dynamic book additions and removals, and simulated user registration logic. This delivered a highly functional application with an intuitive, responsive user experience."
     }
   },
   "techStack": {
-    "core": [],
-    "tools": []
+    "core": ["HTML", "SASS", "JavaScript", "Parsel"],
+    "tools": ["Axios", "Swiper", "localStorage", "npm"]
   },
-  "tags": []
+  "tags": ["frontend", "javascript", "sass", "website", "team-project"]
 }
