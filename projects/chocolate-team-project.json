@@ -1,0 +1,39 @@
+{
+  "slug": "chocolate-team-project",
+  "name": "Simply Chocolate",
+  "type": "landing",
+  "role": "Developer",
+  "status": "completed",
+  "releasedAt": "2023-04-27",
+  "links": {
+    "live": "https://yurii-corssa.github.io/chocolate-team-project/",
+    "frontend": "https://github.com/yurii-corssa/chocolate-team-project",
+    "backend": null,
+    "design": "https://www.figma.com/design/okaTL1nIIh0F63pN7KiLWH/Simply-Chocolate--Copy-?node-id=0-1&p=f&t=C8wI5IXIUfIjwmET-0"
+  },
+  "media": {
+    "cover": {
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/chocolate-team-project/main/assets/simply-chocolate-cover.webp",
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Цей сучасний вебдодаток для преміального бренду шоколаду, що демонструє унікальні продукти, процес виготовлення та відгуки клієнтів, із можливістю покупки й підписки. Забезпечує захопливий досвід і популяризує якісний шоколад.",
+      "full": "Simply Chocolate це командний проєкт, зосереджений на високоякісній верстці та ефективній командній роботі. Він забезпечує готову до продакшну, адаптивну лендинг‑сторінку з використанням багаторазових HTML компонентів та стилів із прив’язкою до секцій, що збираються за допомогою Vite для швидкої розробки та оптимізованого результату. JavaScript навмисно мінімальний та використовується лише для необхідних елементів інтерфейсу користувача, тоді як основний акцент зроблено на чистій розмітці, адаптивних стилях і спільних командних конвенціях. Збірка використовує плагін для інʼєкції HTML компонентів і конфігурацію з кількома точками входу, що забезпечує масштабовану композицію сторінок. Ми віддали пріоритет зручності, продуктивності та відгукливості інтерфейсу. Результат - підтримувана кодова база, добре придатна для командних процесів і подальшого розширення.",
+      "resume": "Командний проєкт зі створення лендингу шоколадного бренду. Повністю реалізував секції «How It’s Made» та «Unique Components», а також долучився до «Reviews» і «Our Products». Це адаптивний, доступний інтерфейс, оптимізований для зручності та швидкодії."
+    },
+    "en": {
+      "short": "This is a modern web application for a premium chocolate brand, showcasing unique products, production process, and customer reviews, with interactive features for purchasing and subscribing. It delivers an engaging user experience and promotes handcrafted chocolate excellence.",
+      "full": "Simply Chocolate is a collaborative project centered on high‑quality layout and effective teamwork. It delivers a production‑ready, responsive landing page using reusable HTML partials and section‑scoped styles, compiled with Vite for fast development and optimized output. JavaScript is intentionally minimal-used only to power essential UI while the primary focus is clean markup, adaptive styling, and shared team conventions. The build leverages an HTML partial injection plugin and a multi‑entry configuration to enable scalable page composition. We prioritized usability, performance, and responsiveness. The result is a maintainable codebase well‑suited for team workflows and future extension.",
+      "resume": "Team project to build a chocolate brand landing page. Implemented “How It’s Made” and “Unique Components” end‑to‑end, and contributed to “Reviews” and “Our Products”. This is a responsive, accessible UI optimized for usability and performance."
+    }
+  },
+  "techStack": {
+    "core": ["HTML", "CSS", "JavaScript", "Vite"],
+    "tools": ["Swiper"]
+  },
+  "tags": ["frontend", "html", "css", "landing", "team-project"]
+}
