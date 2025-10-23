@@ -1,0 +1,39 @@
+{
+  "slug": "cats-home",
+  "name": "Cats Home",
+  "type": "landing",
+  "role": "Developer",
+  "status": "completed",
+  "releasedAt": "2024-03-27",
+  "links": {
+    "live": "https://yurii-corssa.github.io/cats-home/",
+    "frontend": "https://github.com/yurii-corssa/cats-home",
+    "backend": null,
+    "design": "https://www.figma.com/design/qVG0TpPyffrTGnYjPc42l7/Cats-Home?node-id=0-1&p=f&t=dGO32RzHRs43G2U5-0"
+  },
+  "media": {
+    "cover": {
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/cats-home/main/assets/cats-home-cover.webp",
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Це навчальний веб‑проєкт: адаптивна галерея котів для відпрацювання CSS Grid. Містить інформацію про породи й чисті, гнучкі макети, демонструє практичні прийоми та забезпечує сучасний, зручний для мобільних пристроїв інтерфейс.",
+      "full": "Cats Home особистий проєкт, створений для практики та демонстрації сучасних навичок верстки з акцентом на CSS Grid. Він впорядковує адаптивну галерею фото котів і інформаційні розділи про породи та догляд у чіткі, масштабовані сітки, що коректно працюють від мобільних до десктопів. Використано виважені брейкпоінти й багаторазові шаблони сіток, а стилі розділено між легким style guide та сторінковими правилами для передбачуваності й підтримуваності CSS. Як статичний index.html з впорядкованими ресурсами, проєкт швидко завантажується, легко розширюється і є портфоліо‑готовою демонстрацією практичного, доступного дизайну.",
+      "resume": "Індивідуальний проєкт, спрямований на практику CSS Grid через адаптивну сіткову односторінкову верстку з чіткою структурою та візуальною ієрархією."
+    },
+    "en": {
+      "short": "This project is a responsive cat gallery built to practice CSS Grid. It features breed info and clean, adaptable layouts, showcasing practical grid techniques and delivering a polished, mobile‑friendly UI.",
+      "full": "Cats Home is a personal project created to practice and showcase modern frontend layout skills with a focus on CSS Grid. It arranges a responsive gallery of cat photos and informative sections about breeds and care into clear, adaptive grids that scale smoothly from mobile to desktop. The layout applies sensible breakpoints and reusable grid templates, while styles are split between a lightweight style guide and page‑specific rules to keep the CSS predictable and maintainable. Delivered as a simple index.html with organized assets, it loads fast and is easy to extend, making it a portfolio‑ready demonstration of practical, accessible design.",
+      "resume": "Individual project aimed at practicing CSS Grid via a responsive, grid‑based single‑page layout that showcases clear content structure and visual hierarchy."
+    }
+  },
+  "techStack": {
+    "core": ["HTML", "CSS"],
+    "tools": []
+  },
+  "tags": ["frontend", "html", "css", "landing", "personal-project", "css-grid"]
+}
