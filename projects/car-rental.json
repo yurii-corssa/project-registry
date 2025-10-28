@@ -1,0 +1,47 @@
+{
+  "slug": "car-rental",
+  "name": "City Wheels Car Rental",
+  "type": "web-app",
+  "role": "Developer",
+  "status": "completed",
+  "releasedAt": "2023-12-11",
+  "links": {
+    "live": "https://yurii-corssa.github.io/car-rental/",
+    "frontend": "https://github.com/yurii-corssa/car-rental",
+    "backend": null,
+    "design": "https://www.figma.com/design/Ra4WLBNF7VPPW0r9IcIOWu/Test--Copy-?node-id=0-1&p=f&t=iuus5fd4LbJMiNKA-0"
+  },
+  "media": {
+    "cover": {
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/car-rental/main/public/car-rental-cover.webp",
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Вебзастосунок оренди авто, що допомагає швидко знайти потрібне авто: перегляд каталогу, фільтр за брендом і детальні умови оренди в зручному модальному вікні. Обране дозволяє зберігати варіанти на потім.",
+      "full": "City Wheels Car Rental це екзаменаційний проєкт, створений для демонстрації набутих frontend навичок, виконаний за реалістичним ТЗ і у встановлений термін. Застосунок побудовано за компонентним підходом на React із лінивим завантаженням маршрутів, Redux Toolkit для передбачуваного стану, redux‑persist для збереження вибраного та styled‑components для узгодженого стилю. Користувач переглядає каталог авто, фільтрує за брендом, поступово підвантажує більше, відкриває детальні модальні вікна з аксесуарами й умовами оренди та керує списком Обраного, що зберігається після перезавантаження. Дані надходять із MockAPI через axios; запити поєднують фільтрацію за брендом і збільшення ліміту для швидких взаємодій без складної пагінації. Ми приділили увагу юзабіліті та доступності: закриття модалок і дропдаунів з клавіатури, ліниве завантаження зображень, зрозуміла навігація. Підсумок - адаптивний, підтримуваний і продуктивний проєкт‑портфоліо, що демонструє чисті патерни роботи з даними та станом UI.",
+      "resume": "Індивідуальний екзаменаційний проєкт. Реалізовано каталог оренди авто з фільтром за брендом, поетапним підвантаженням, детальними модальними вікнами та сторінкою Обраного. Забезпечує адаптивний, інтуїтивний досвід, оптимізований під юзабіліті та продуктивність."
+    },
+    "en": {
+      "short": "A car-rental web app that helps users quickly find the right vehicle: browse a curated catalog, filter by brand, and view detailed rental conditions in a clean modal. Favorites let you save options for later.",
+      "full": "City Wheels Car Rental is an exam project built to demonstrate the frontend skills I acquired during study, executed under real‑like technical specs and a fixed deadline. The app follows a component‑driven React approach with lazy‑loaded routes, Redux Toolkit for predictable state, redux‑persist for favorites, and styled‑components for cohesive theming. Users browse a car catalog, filter by brand, progressively load more results, open detailed modals with accessories and rental conditions, and manage a Favorites list that survives reloads. Data comes from a MockAPI backend via axios; queries compose brand filters and a growing limit to keep interactions snappy without complex paging. UX focuses on usability and accessibility with keyboard‑dismissible modals/dropdowns, lazy images, and clear navigation. The result is a responsive, maintainable, and performant portfolio piece that showcases clean data‑fetching patterns and disciplined UI state.",
+      "resume": "Individual exam project. Built a car‑rental catalog with brand filter, load‑more results, detailed modals, and a persistent Favorites page. Delivers a responsive, intuitive experience optimized for usability and performance."
+    }
+  },
+  "techStack": {
+    "core": ["React", "Redux Toolkit", "Styled Components", "Vite"],
+    "tools": ["React Router", "redux-persist", "redux-thunk", "Axios", "MockAPI", "nanoid", "npm"]
+  },
+  "tags": [
+    "pet-project",
+    "frontend",
+    "react",
+    "redux",
+    "web-app",
+    "personal-project",
+    "exam-project"
+  ]
+}
