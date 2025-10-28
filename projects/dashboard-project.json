@@ -1,0 +1,47 @@
+{
+  "slug": "dashboard-project",
+  "name": "Cat CRM",
+  "type": "landing",
+  "role": "Developer",
+  "status": "completed",
+  "releasedAt": "2024-03-27",
+  "links": {
+    "live": "https://yurii-corssa.github.io/dashboard-project/",
+    "frontend": "https://github.com/yurii-corssa/dashboard-project",
+    "backend": null,
+    "design": "https://www.figma.com/design/C89lyhOVoO95xMCNbriztU/Dashboard-UI-Kit--Copy-?node-id=0-1&p=f&t=cA8ldHqYuyCo2S2o-0"
+  },
+  "media": {
+    "cover": {
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/dashboard-project/main/assets/cats-crm-cover.webp",
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Інтуїтивна панель Cat CRM, що об’єднує дані про клієнтів і команду в одному місці. Відстежуйте задачі, деталі колег і звіти зі зрозумілими статусами та сповіщеннями. Дійте швидше, тримайте порядок і впевнено приймайте рішення.",
+      "full": "Проект Cat CRM Dashboard представляє собою особисту подорож у глибини Sass (Syntactically Awesome Stylesheets), створену як самостійне починання з метою закріплення мого розуміння та застосування цього потужного препроцесора CSS. Дашборд служить не тільки інструментом для управління примхливою системою Cat CRM, але й полотном, на якому я практикував і відточував свої навички Sass. Задуманий з бажання перетворити теоретичні знання на практичний досвід, цей проект дозволив мені дослідити потужні функції Sass - змінні, міксини, вкладення та інше. Процес полягав як у створенні динамічного, адаптивного користувацького інтерфейсу для панелі інструментів, так і у втіленні принципів масштабованого та підтримуваного CSS за допомогою розширених функцій Sass. Цей проект є важливою віхою в моїй кар'єрі веб-розробника і відображає моє прагнення до досконалого володіння Sass. Він демонструє тонкі можливості Sass у вдосконаленні CSS за допомогою програмованої логіки, відкриваючи нові горизонти в методології стилізації.",
+      "resume": "Індивідуальний проєкт, зосереджений на практиці препроцесора стилів через адаптивну CRM‑панель. Акцент на чистій архітектурі, узгодженій дизайн‑системі та відточених взаємодіях. Інтерфейс інтуїтивний, оптимізований для зручності та продуктивності."
+    },
+    "en": {
+      "short": "An intuitive Cat CRM dashboard that puts customer and team insights in one view. Track tasks, co‑worker details, and reports with clear statuses and smart notifications. So you act faster, stay organized, and decide with confidence.",
+      "full": "The Cat CRM Dashboard project represents a personal journey into the depths of Sass (Syntactically Awesome Stylesheets), crafted as a solo endeavor to solidify my understanding and application of this powerful CSS preprocessor. The dashboard serves not just as a tool for managing a whimsical Cat CRM system, but as a canvas on which I've practiced and honed my Sass skills. Conceived from a desire to transform theoretical knowledge into practical expertise, this project allowed me to explore Sass's robust features — variables, mixins, nesting, and beyond. The process was as much about creating a dynamic, responsive user interface for the dashboard as it was about embedding the principles of scalable and maintainable CSS through Sass's advanced functionalities. This project stands as a milestone in my web development journey, reflecting my dedication to mastering Sass. It showcases the nuanced capabilities of Sass in enhancing CSS with programmable logic, thus opening up new horizons in styling methodologies.",
+      "resume": "Individual project focused on practicing a stylesheet preprocessor through a responsive CRM dashboard. Emphasizes clean architecture, consistent design system, and polished interactions. Optimized for usability and performance with an intuitive, high‑speed experience."
+    }
+  },
+  "techStack": {
+    "core": ["HTML5", "SASS", "JavaScript", "Vite"],
+    "tools": ["postcss", "body‑scroll‑lock", "simplebar"]
+  },
+  "tags": [
+    "pet-project",
+    "frontend",
+    "html",
+    "sass",
+    "landing",
+    "personal-project",
+    "learning-project"
+  ]
+}
