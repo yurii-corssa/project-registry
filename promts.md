@@ -132,32 +132,20 @@ Then, create a **professional README.md** file in English with the following str
 
 # [Project Name]
 
-> A short 1–2 sentence tagline describing what this project is and its purpose.
+> Welcome to [Project Name].
 
 ![Project Cover](./assets/[project-cover].webp)
 
 ## Description
 
-A concise but detailed paragraph (5–8 sentences) describing the project’s essence:
-
-- Begin with the project name and purpose (e.g., to practice specific technologies, to build a real product, or to showcase development skills).
-- Explain the development process and implementation focus.
-- Mention important details naturally (e.g., hand-built components, architecture patterns, optimization efforts).
-- Emphasize aspects like usability, performance, responsiveness, and maintainability.
+[leave space for description to be added later]
 
 ## Key Features
 
-List **only the features that are technically significant or complex from a development perspective** — not simple or obvious user-level functions.  
-Include features that demonstrate:
-
-- Custom or reusable components
-- Architectural or performance optimizations
-- Non-trivial implementation logic
-- Advanced animation, interaction, or UI effects
-- Systems built from scratch (e.g., sliders, modals, parallax, data handling)
+List only the features that are technically significant or complex from a development perspective.
 
 Use this structure for each bullet:
-`- **Feature Name** – short technical explanation of what it does and how it was implemented.`
+`- **Feature Name** - short and concise technical explanation.`
 
 ## Technology Stack
 
@@ -177,7 +165,7 @@ To run this project locally, you need to have `node` and `npm` installed.
 
    ```bash
    git clone [repository URL]
-
+   cd [repository name]
    ```
 
 2. Install the dependencies:
