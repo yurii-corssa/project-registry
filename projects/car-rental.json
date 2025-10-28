@@ -32,8 +32,18 @@
     }
   },
   "techStack": {
-    "core": ["React", "Redux Toolkit", "Styled Components", "Vite"],
-    "tools": ["React Router", "redux-persist", "redux-thunk", "Axios", "MockAPI", "nanoid", "npm"]
+    "core": ["React", "Redux", "Styled Components"],
+    "tools": [
+      "React Router",
+      "redux-toolkit",
+      "redux-persist",
+      "redux-thunk",
+      "Axios",
+      "MockAPI",
+      "create-react-app",
+      "nanoid",
+      "npm"
+    ]
   },
   "tags": [
     "pet-project",
