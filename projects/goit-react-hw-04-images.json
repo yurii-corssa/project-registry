@@ -1,0 +1,39 @@
+{
+  "slug": "goit-react-hw-04-images",
+  "name": "Image Finder",
+  "type": "web-app",
+  "role": "frontend",
+  "status": "completed",
+  "releasedAt": "2023-08-15",
+  "links": {
+    "live": "https://yurii-corssa.github.io/goit-react-hw-04-images/",
+    "frontend": "https://github.com/yurii-corssa/goit-react-hw-04-images",
+    "backend": null,
+    "design": null
+  },
+  "media": {
+    "cover": {
+      "1x": null,
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": null,
+      "full": null,
+      "resume": null
+    },
+    "en": {
+      "short": null,
+      "full": null,
+      "resume": null
+    }
+  },
+  "techStack": {
+    "core": ["React", "Styled Components"],
+    "tools": ["axios", "formik", "nanoid", "prop-types", "web-vitals", "npm", "ESLint"]
+  },
+  "tags": ["pet-project", "frontend", "react", "web-app", "personal-project", "pixabay-api"]
+}
