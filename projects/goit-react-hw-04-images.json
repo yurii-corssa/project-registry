@@ -13,7 +13,7 @@
   },
   "media": {
     "cover": {
-      "1x": null,
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/goit-react-hw-04-images/main/assets/image-finder-cover.webp",
       "2x": null,
       "3x": null
     },
@@ -21,14 +21,14 @@
   },
   "descriptions": {
     "ua": {
-      "short": null,
-      "full": null,
-      "resume": null
+      "short": "Це застосунок для пошуку зображень на React, створений для практики API‑запитів. Користувачі шукають у Pixabay та переглядають галерею відповідно запиту. Чистий UX і надійна асинхронність.",
+      "full": "Image Finder це легкий проєкт на React, створений для практики роботи з запитами до API та обробки асинхронних даних в UI. Він використовує модульну структуру компонентів, хуки для стану/ефектів і простий сервісний шар, що відокремлює отримання даних від відображення. Інтерфейс зосереджений на полі пошуку, галереї зображень та лаконічному модальному перегляді, з базовою пагінацією та зрозумілими станами завантаження/порожньо/помилка. Результат - швидкий, охайний і підтримуваний приклад зі стабільним потоком запитів і зручним фідбеком.",
+      "resume": "Індивідуальний проєкт, спрямований на практику API-запитів у застосунку пошуку зображень. Реалізовано пошук із пагінацією, галерею зображень з модальним переглядом і чіткі стани завантаження/помилки. В результаті чистий UX, надійна асинхронність і підтримуваний код."
     },
     "en": {
-      "short": null,
-      "full": null,
-      "resume": null
+      "short": "This is an image search application built with React, developed to practice API requests. Users can search Pixabay and view a gallery of results. Clean UX and reliable async behavior.",
+      "full": "Image Finder is a lightweight React project created to practice working with API requests and handling async data in the UI. It uses a modular component structure, hooks for state/effects, and a simple service layer that separates data fetching from presentation. The interface focuses on a search field, an image gallery, and a discreet modal preview, with basic pagination and clear loading/empty/error states. The result is a fast, clean, and maintainable example that demonstrates reliable request flow and user-friendly feedback.",
+      "resume": "An individual project focused on practicing API requests in an image search application. Implemented search with pagination, an image gallery with modal preview, and clear loading/error states. The result is a clean UX, reliable async behavior, and maintainable code."
     }
   },
   "techStack": {
