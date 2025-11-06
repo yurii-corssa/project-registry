@@ -1,0 +1,57 @@
+{
+  "slug": "flicks-mania",
+  "name": "Flicks Mania",
+  "type": "web-app",
+  "role": "Frontend Developer & Designer",
+  "status": "completed",
+  "releasedAt": "2023-08-20",
+  "links": {
+    "live": "https://yurii-corssa.github.io/flicks-mania/",
+    "frontend": "https://github.com/yurii-corssa/flicks-mania",
+    "backend": null,
+    "design": null
+  },
+  "media": {
+    "cover": {
+      "1x": "https://raw.githubusercontent.com/yurii-corssa/flicks-mania/main/assets/flicks-mania-cover.webp",
+      "2x": null,
+      "3x": null
+    },
+    "liveDemo": null
+  },
+  "descriptions": {
+    "ua": {
+      "short": "Це застосунок для відкриття фільмів: перегляд трендів, пошук за назвою, деталі з постером, акторами й відгуками. Створений для демонстрації фронтенд навичок, забезпечує швидкий та адаптивний досвід користувача.",
+      "full": "Flicks Mania це застосунок для пошуку та відкриття фільмів, створений для демонстрації фронтенд навичок і практики сучасного React у підтримуваній архітектурі. Використано React 18 з вкладеним роутингом (react-router v6), code‑splitting через React.lazy/Suspense та інтеграцію з The Movie Database API на базі axios; стилі організовано через styled-components, з іконками MUI та каруселлю для касту. Доступні сторінки: Home із трендовими релізами, Movies з пошуком і збереженням запиту в URL, Movie Details з постером, рейтингом, оглядом, жанрами та вкладеними Cast і Reviews. Серед важливих деталей це обгортка Poster зі скелетоном і запасними зображеннями, індикатори завантаження через Suspense та коректна конфігурація для деплою на GitHub Pages. У підсумку - зручний і швидкий інтерфейс із плавною навігацією та чітким дизайном, орієнтований на підтримуваність.",
+      "resume": "Індивідуальний проєкт для практики маршрутизації та запитів до API. Реалізує динамічну вкладену навігацію з лінивим завантаженням сторінок, пошук із збереженням запиту та оптимізовані зображення для плавного надійного досвіду."
+    },
+    "en": {
+      "short": "This is a movie discovery app for browsing trends, searching by title, and viewing details with posters, actors, and reviews. Built to showcase frontend skills, it provides a fast and responsive user experience.",
+      "full": "Flicks Mania is a movie discovery and search application built to showcase frontend skills and practice modern React in a maintainable architecture. It uses React 18 with nested routing (react-router v6), code-splitting via React.lazy/Suspense, and integration with The Movie Database API using axios; styles are organized with styled-components, MUI icons, and a slick carousel for cast. Available pages include Home with trending releases, Movies with search and URL query persistence, and Movie Details featuring poster, rating, overview, genres, and nested Cast and Reviews. Key details include a Poster wrapper with skeleton and fallback images, loading indicators via Suspense, and proper configuration for GitHub Pages deployment. The result is a user-friendly, fast interface with smooth navigation and clean design focused on maintainability.",
+      "resume": "Individual project for practicing routing and API requests. Implements dynamic nested navigation with lazy loading of pages, search with query persistence, and optimized images for a smooth, reliable experience."
+    }
+  },
+  "techStack": {
+    "core": ["React", "Styled Components"],
+    "tools": [
+      "React Router",
+      "axios",
+      "formik",
+      "nanoid",
+      "react-slick",
+      "react-spinners",
+      "slick-carousel",
+      "web-vitals",
+      "npm",
+      "ESLint"
+    ]
+  },
+  "tags": [
+    "pet-project",
+    "frontend",
+    "react",
+    "web-app",
+    "personal-project",
+    "the-movie-database-api"
+  ]
+}
